@@ -1,4 +1,3 @@
-build
 node_modules
 src/config/dev.ts
-build/index.js
+build/config/dev.js
